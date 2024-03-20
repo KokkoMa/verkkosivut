@@ -1,0 +1,23 @@
+/*Tämä on otsikon design*/
+
+#header{
+    background-color: black;
+    padding: 30px;
+    text-align: center;
+    font-size: 35px;
+    color: white;
+}
+
+/*Tämä on Nav valikon design*/
+
+#nav{
+    float:center;
+    height: 10px;
+    text-align: center;
+    background:#ccc;
+    padding: 10px;
+    margin: 1px;
+}
+
+/*Tämä on Section 1 layout*/
+

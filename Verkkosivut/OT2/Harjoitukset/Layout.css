@@ -1,0 +1,50 @@
+#Header{background-color:grey;
+height: 250px;
+text-align: center;
+font-size: 30px;
+border: 0;
+margin: 0;
+padding: 0;
+}
+
+#Main{background-color: blue;
+height: 500;
+margin: 0;
+padding: 0;
+
+}
+
+
+#Naw{background-color: aqua;
+    float: left;
+height: 517px;
+width: 30%;
+text-align:center;
+padding: 0;
+margin: 0;
+
+}
+#Section{background-color: bisque;
+    float: right;
+height:500px;
+width: 70%; ;
+padding: 0;
+margin: 0;
+}
+
+#Aside{background-color: beige;
+height: 200;
+width: 35%;}
+
+
+#Footer{background-color:yellow;
+    float: none;
+height: 80px;
+width: 100%;
+padding: 10px;
+}
+
+
+
+
+

@@ -1,0 +1,93 @@
+
+
+/*Tässä on kuvattu Header osion tyyli*/
+.Header{background-color:lightgray;
+    height: 100px;
+    text-align: center;
+    font-size: 15px;
+    border: 0px;
+    margin: 0px;
+    padding: 5px;
+    
+    }
+    
+    /*Main osa Headerin alla*/
+    .Main{background-color: bisque;
+        text-align: center;
+        height: 40px;
+        border: 0px;
+        margin: 0px;
+        padding: 5px;
+        font-size: 16px;
+        
+    
+    }
+    
+    /*Vasempaan reunaan siirrettu Nav-valikko*/
+    .Naw{background-color:rgb(253, 211, 104);
+    height: 550px;
+    width: 15%;
+    float: left;
+    border: 0px;
+    margin: 0px;
+    padding: 0px;
+    font-size: 16px;
+    
+    
+    }
+    
+    
+    /*Jälkitekstiosion tyyli*/
+    .Footer{background-color:rgb(240, 240, 119);
+        position: absolute;
+        bottom: 0;
+        left: 8px;
+        text-align: center;
+        float: left;
+        height: 40px;
+        width: 100%;
+        padding: 5px;
+    
+    }
+    
+    /*Vasemmanpuoleisin tekstiosan tyyli*/
+    .Column1{float: left;
+        position: relative;
+        text-align: center;
+        width: 70%;
+        padding: 30px;
+        margin: 30px;
+    
+    }
+    
+    /*Oikenpuoleisen tekstiosan tyylu*/
+    .Column2{float: left;
+        position: static;
+        width: 80%;
+        padding: 20px;
+    
+    }
+    
+    .row:after {
+        content: "Column";
+        display: table;
+        clear: both;
+    
+    }
+    
+
+    .Teksti{text-align: center;
+    
+    }
+    
+    /*Sivulla näkyvien linkkien näkymä kun osoitin viedään tekstin päälle*/
+    a:hover{color: red;
+    
+    }
+    
+    
+    
+    
+    
+    
+    

@@ -1,0 +1,58 @@
+
+.first-title {font-size: 20px;}
+
+body {background-color:gold;
+}
+
+
+
+div{color: black;
+
+}
+
+p{color: green;font-size: 12px;
+
+}
+
+.div-shape{border: dotted 2px; width: 100px; height: 100px;
+ }
+
+ ul{color: white; list-style-type: square;}
+
+ ol{color: white; list-style-type: lower-alpha;}
+
+ figcaption{color: white;}
+
+ label{color: white;}
+
+
+
+
+
+
+.Borders{border-style:solid; 
+color: blue;background-color: brown;
+width: 250px;text-align: center;
+margin: 5px;
+}
+
+.taustaväri {color: red;
+border-style: solid;
+background-color: blue;
+width: 200px;
+border-radius: 20px;
+margin: 5px;
+padding: 20px;
+text-align: center;
+
+}
+
+
+
+
+
+
+
+
+
+
